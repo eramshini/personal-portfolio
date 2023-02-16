@@ -1,0 +1,274 @@
+body{
+    margin-top:0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    display: block;
+}
+
+
+
+
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: #be3144;
+    box-shadow: 0 2px 0 rgb(0 0 0 / 40%);
+    position: fixed;
+    z-index: 1;
+ 
+
+}
+nav ul{
+    right:0;
+    position: absolute;
+    padding-top: 10px;
+}
+nav li{
+    display: inline-block;
+    font-family: sans-serif;
+}
+nav a{
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 35px;
+    
+}
+#about{
+ 
+    background: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+    width:100%;
+    height: 800px;
+    position: absolute;
+    left: auto;
+    right: auto;
+    
+}
+.mimic{
+    color:white;
+    font-size: 60px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 270px;
+}
+p{
+    color:#be3144;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: -50px;
+}
+#work{
+    background-color: #45567d;
+    width: 100%;
+    height: 700px;
+    margin-top: 400px;
+   
+}
+.project{
+    color:white;
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: underline;
+    padding: 100px;
+}
+.box-1{
+    height: 420px;
+    width: 27%;
+    background-color: #d0caca;
+    margin-left: 90px;
+   
+  
+}
+.norman{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    letter-spacing: 0.04rem;
+    padding: 20px;
+}
+.men{
+    font-size: 10px;
+    font-family: sans-serif;
+    color: black;
+}
+img{
+    height: 66%;
+    width: 100%;
+}
+.border{
+    background-color: #091633;
+    height: 120px;
+    width: 100%;
+}
+
+
+.tribute{
+    color: white;
+    margin-top: 10p;
+    text-align: center;
+    padding: 60px;
+    font-size: 25px;
+}
+.box-2{
+    height: 420px;
+    width: 27%;
+    background-color: #d0caca;
+    margin-top: -420px;
+    margin-left: 560px;
+}
+.survey{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    letter-spacing: 0.04rem;
+    padding: 20px;
+}
+.border-1{
+    background-color: #091633;
+    height: 160px;
+    width: 100%;
+}
+.by{
+    color: white;
+
+    text-align: center;
+    padding: 60px;
+    font-size: 15px;
+}
+.formimage{
+    height: 56%;
+    width: 100%;
+    margin-top: -30px;
+}
+.random{
+    background-color: #be3144;
+    height:84px;
+    width:100%;
+}
+.machine{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 308x;
+    margin-top: -150px;
+    padding-top: 100px;
+    text-align: center;
+
+}
+.box-3{
+    height: 420px;
+    width: 27%;
+    background-color: #d0caca;
+    margin-top: -420px;
+    margin-left: 1030px;
+}
+.product{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    letter-spacing: 0.04rem;
+    padding: 20px;
+}
+.productpage{
+    height: 56%;
+    width: 100%;
+    margin-top: -30px;
+}
+.border-2{
+    background-color: #091633;
+    height: 160px;
+    width: 100%;
+}
+.landing{
+    color: white;
+
+    text-align: center;
+    padding: 60px;
+    font-size: 15px;
+}
+.age{
+    background-color: #313fbe;
+    height:84px;
+    width:100%;   
+}
+.pp{
+    color: white;
+    font-size: 25px;
+    margin-bottom: 308x;
+    margin-top: -150px;
+    padding-top: 100px;
+    text-align: center;
+}
+#contact{
+ 
+    background-color: #303841;
+    width:100%;
+    height: 680px;
+    position: absolute;
+    left: auto;
+    right: auto;   
+}
+.work{
+    color:white;
+    font-size: 60px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 190px;
+}
+.coffee{
+    color:#c6bebe;
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: -40px;
+}
+.intsalogo{
+    height: 50px;
+    width: 4.1%;
+    padding-bottom: 47px;
+    margin-left: 670px;
+   transition: transform 0.3s ease-out;
+}
+.intsalogo:hover {
+    transform: translateY(8px);
+}
+  
+.phone{
+    height: 30px;
+    margin-left: 40px;
+    width: 1.9%;
+    padding-bottom: 60px;
+    transition: transform 0.3s ease-out;
+  
+}
+.phone:hover{
+    transform:translateY(8px);
+}
+.horizontal{
+    height:2%;
+    border-bottom: 2px solid #ff0000;
+}
+.fake{
+    font-size: 20px;
+    color: white;
+    margin-top: 80px;
+    margin-left: -550px
+}
+.codelogo{
+    height: 40px;
+    width: 3%;
+    right: 0;
+    margin-top: -50px;
+    position: absolute;
+    margin-right: 380px;
+}
+.fcc{
+    font-size: 20px;
+    color: white;
+    margin-left: 1050px;
+}
